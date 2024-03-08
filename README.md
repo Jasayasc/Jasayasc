@@ -92,6 +92,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarciaGabrielle}/count.svg" /></p> 
 <br>
 </div>
-
+<!--
 #Snake eating my contribution graph
 ![snake gif](https://github.com/Jasayasc/Jasayasc/blob/output/github-contribution-grid-snake.gif)
+->
