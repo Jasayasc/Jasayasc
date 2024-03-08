@@ -93,7 +93,5 @@
 <br>
 </div>
 
-
-<p align="center">
-  <img src="https://github.com/Jasayasc/Jasayasc/blob/main/github-user-contribution.svg" alt="snake">
-</p>
+#Snake eating my contribution graph
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
