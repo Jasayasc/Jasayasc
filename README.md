@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 # Hi, I'm Joel Sayas
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=System+Developer...;Data+Systematization+Student..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00BFFF&size=27&center=false&lines=System+Developer...;Data+Systematization+Student..."/>
 
  <p><i>Systems student passionate about technology and innovation. Develop skills in programming, algorithms and data analysis. Interested in artificial intelligence, machine learning and data science. Committed to continuous learning and looking for opportunities to apply my knowledge and contribute with innovative technological solutions.</i></p>
 
@@ -89,7 +89,7 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarciaGabrielle}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jasayasc}/count.svg" /></p> 
 <br>
 </div>
 <!--
