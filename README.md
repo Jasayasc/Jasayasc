@@ -86,6 +86,10 @@
   [![LinkedIn Badge](https://img.shields.io/badge/-Joel_Sayas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joelsayas/)](https://www.linkedin.com/in/joelsayas/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-jasayasc@udistrital.edu.co-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jasayasc@udistrital.edu.co)&nbsp;
 
+
+![snake gif](https://github.com/Jasayasc/Jasayasc/blob/output/github-snake-dark.svg)
+
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 
@@ -97,4 +101,5 @@
 ![snake gif](https://github.com/Jasayasc/Jasayasc/blob/output/github-contribution-grid-snake.gif)
 ->
 
-![snake gif](https://github.com/Jasayasc/Jasayasc/blob/output/github-snake-dark.svg)
+
+
